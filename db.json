@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pedro",
+      "empresa": "Codigo con Pedro",
+      "email": "pedro@pedro.com",
+      "telefono": "12345678",
+      "notas": "El cliente quiere el mejor Wifi",
+      "id": 1
+    },
+    {
+      "nombre": "Marta",
+      "empresa": "Codigo con Marta",
+      "email": "marta@marta.com",
+      "telefono": "2224555",
+      "notas": "Marta quiere una Notebook",
+      "id": 2
+    },
+    {
+      "nombre": "Paula",
+      "empresa": "Codigo con Paula",
+      "email": "paula@paula.com",
+      "telefono": "3334666",
+      "notas": "Paula necesita Internet",
+      "id": 3
+    },
+    {
+      "nombre": "Ignacio",
+      "empresa": "Codigo con Ignacio",
+      "email": "ignacio@ignacio.com",
+      "telefono": "4445777",
+      "notas": "Ignacio quiere un Smart TV",
+      "id": 4
+    },
+    {
+      "nombre": "Hector (Corregido)",
+      "empresa": "Codigo con Hector",
+      "email": "hector@hector.com",
+      "telefono": "99991222",
+      "notas": "Hector necesita el mejor Ecommerce",
+      "id": 5
+    },
+    {
+      "nombre": "Julieta",
+      "empresa": "Codigo con Juan",
+      "email": "julieta@julieta.com",
+      "telefono": "88822333",
+      "notas": "Quiere algo diferente",
+      "id": 7
+    }
+  ]
+}
